@@ -180,3 +180,4 @@ sudo systemctl start nginx
 重启 Nginx,sudo systemctl restart nginx
 查看 Docker 容器,sudo docker ps
 查看 Nginx 状态,sudo systemctl status nginx
+...
